@@ -1,6 +1,6 @@
 ### ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ObsidianMaximus&theme=synthwave)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ObsidianMaximus)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ObsidianMaximus)&theme=buefy-dark](https://git.io/streak-stats)
 <!--
 **ObsidianMaximus/ObsidianMaximus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
