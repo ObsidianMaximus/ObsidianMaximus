@@ -2,7 +2,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ObsidianMaximus&theme=synthwave)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ObsidianMaximus)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ObsidianMaximus&theme=buefy-dark)](https://git.io/streak-stats)
 <!--
