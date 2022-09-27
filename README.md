@@ -1,5 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Abyssinica+SIL&size=30&pause=1000&color=F70000&background=72684E00&center=true&vCenter=true&width=435&lines=Hello+there!;Sir+Obsidian+Maximus+welcomes+you!+%F0%9F%98%84)](https://git.io/typing-svg)
-
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Abyssinica+SIL&size=21&pause=1000&color=F70000&background=72684E00&center=true&vCenter=true&width=435&lines=Hello+there!;Sir+Obsidian+Maximus+welcomes+you!+%F0%9F%98%84)](https://git.io/typing-svg)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ObsidianMaximus&theme=synthwave)
 
