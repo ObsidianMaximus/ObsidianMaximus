@@ -1,10 +1,10 @@
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Abyssinica+SIL&size=21&pause=1000&color=F70000&background=72684E00&center=true&vCenter=true&width=435&lines=Hello+there!;Sir+Obsidian+Maximus+welcomes+you!+%F0%9F%98%84)](https://git.io/typing-svg)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ObsidianMaximus&theme=synthwave)
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ObsidianMaximus&theme=synthwave)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OBSIDIANMAXIMUS&show_icons=true&theme=synthwave)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ObsidianMaximus&theme=buefy-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ObsidianMaximus&theme=buefy-dark)](https://git.io/streak-stats) -->!
 
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ObsidianMaximus&theme=2077) 
  
