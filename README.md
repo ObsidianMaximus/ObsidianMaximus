@@ -12,8 +12,6 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ObsidianMaximus&theme=2077) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ObsidianMaximus&theme=2077&utcOffset=8)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OBSIDIANMAXIMUS&show_icons=true&theme=2077)
-
 
 <!--
 **ObsidianMaximus/ObsidianMaximus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
