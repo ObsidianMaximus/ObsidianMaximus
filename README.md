@@ -5,6 +5,10 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OBSIDIANMAXIMUS&show_icons=true&theme=synthwave)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ObsidianMaximus&theme=buefy-dark)](https://git.io/streak-stats)
+
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ObsidianMaximus&theme=2077) 
+ 
+ 
 <!--
 **ObsidianMaximus/ObsidianMaximus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
