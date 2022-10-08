@@ -12,6 +12,8 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ObsidianMaximus&theme=2077) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ObsidianMaximus&theme=2077&utcOffset=8)
 
+[![@obsidianmaximus's Holopin board](https://holopin.io/api/user/board?user=obsidianmaximus)](https://holopin.io/@obsidianmaximus)
+
 <a href="https://t.me/ObsidianMaximus">
   <img align="left" alt="Sarthak's Telegram" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg" />
 </a>
