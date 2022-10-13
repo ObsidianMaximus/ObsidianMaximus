@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/-WSL2-4D4D4D?logo=WindowsTerminal&logoColor=fff"/>
 <img src="https://img.shields.io/badge/-Kernel-A8B9CC?logo=C&logoColor=fff"/>
 <img src="https://img.shields.io/badge/-C++-black?logo=c%2B%2B&style=social"/>
-<img src="https://img.shields.io/badge/-NoobLang-3776AB?logo=Python&logoColor=fff"/>
+<img src="https://img.shields.io/badge/-NoobsLang.-3776AB?logo=Python&logoColor=fff"/>
 <img src="https://img.shields.io/badge/-Bots-5865F2?logo=Discord&logoColor=fff"/>
 <img src="
 https://img.shields.io/badge/-Bots-26A5E4?logo=Telegram&logoColor=fff"/>
