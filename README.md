@@ -23,7 +23,27 @@
  <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DObsidianMaximus&longCache=true"/>
 </p>
 
+<p align="center">
 
+<img src="https://img.shields.io/badge/-Mint-87CF3E?logo=LinuxMint&logoColor=fff"/>
+<img src="https://img.shields.io/badge/-AOSP-3DDC84?logo=Android&logoColor=fffhttps://img.shields.io/badge/-AOSP-3DDC84?logo=Android&logoColor=fff"/>
+<img src="https://img.shields.io/badge/-Vim-019733?logo=VIM&logoColor=fff"/>
+<img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=fff"/>
+<img src="https://img.shields.io/badge/-CliGuy-241F31?logo=GnomeTerminal&logoColor=fff"/>
+<img src="https://img.shields.io/badge/-WSL2-4D4D4D?logo=WindowsTerminal&logoColor=fff"/>
+<img src="https://img.shields.io/badge/-Kernel-A8B9CC?logo=C&logoColor=fff"/>
+<img src="https://img.shields.io/badge/-C++-black?logo=c%2B%2B&style=social"/>
+<img src="https://img.shields.io/badge/-NoobLang-3776AB?logo=Python&logoColor=fff"/>
+<img src="https://img.shields.io/badge/-Bots-5865F2?logo=Discord&logoColor=fff"/>
+<img src="
+https://img.shields.io/badge/-Bots-26A5E4?logo=Telegram&logoColor=fff"/>
+
+
+
+</p>
+
+
+<p align="center">
 
 <!--
 For Statistics:
