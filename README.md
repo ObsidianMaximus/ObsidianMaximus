@@ -28,14 +28,13 @@
 <img src="https://img.shields.io/badge/-Mint-87CF3E?logo=LinuxMint&logoColor=fff"/>
 <img src="https://img.shields.io/badge/-Win11-0078D4?logo=Windows11&logoColor=fff"/>
 <img src="https://img.shields.io/badge/-AOSP-3DDC84?logo=Android&logoColor=fffhttps://img.shields.io/badge/-AOSP-3DDC84?logo=Android&logoColor=fff"/>
-<img src="https://img.shields.io/badge/-Vim-019733?logo=VIM&logoColor=fff"/>
 <img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=fff"/>
 <img src="https://img.shields.io/badge/-Bash-4E8825?logo=GNUBash&logoColor=fff"/>
 <img src="https://img.shields.io/badge/-CliGuy-241F31?logo=GnomeTerminal&logoColor=fff"/>
 <img src="https://img.shields.io/badge/-WSL2-4D4D4D?logo=WindowsTerminal&logoColor=fff"/>
 <img src="https://img.shields.io/badge/-Kernel-A8B9CC?logo=C&logoColor=fff"/>
-<img src="https://img.shields.io/badge/-ProsLang.-black?logo=c%2B%2B&style=social"/>
-<img src="https://img.shields.io/badge/-NoobsLang.-3776AB?logo=Python&logoColor=fff"/>
+<img src="https://img.shields.io/badge/-CPP-black?logo=c%2B%2B&style=social"/>
+<img src="https://img.shields.io/badge/-Py.-3776AB?logo=Python&logoColor=fff"/>
 <img src="https://img.shields.io/badge/-Bots-5865F2?logo=Discord&logoColor=fff"/>
 
 <img src="https://img.shields.io/badge/-Bots-26A5E4?logo=Telegram&logoColor=fff"/>
