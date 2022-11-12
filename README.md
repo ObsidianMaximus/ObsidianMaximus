@@ -25,7 +25,7 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/-Mint-87CF3E?logo=LinuxMint&logoColor=fff"/>
+<img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=Ubuntu&logoColor=fff"/>
 <img src="https://img.shields.io/badge/-Win11-0078D4?logo=Windows11&logoColor=fff"/>
 <img src="https://img.shields.io/badge/-AOSP-023020?logo=Android&logoColor=fffhttps://img.shields.io/badge/-AOSP-3DDC84?logo=Android&logoColor=fff"/>
 <img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=fff"/>
