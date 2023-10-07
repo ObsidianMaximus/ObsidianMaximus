@@ -26,12 +26,10 @@
 <p align="center">
 
 <img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=Ubuntu&logoColor=fff"/>
-<img src="https://img.shields.io/badge/-Win11-0078D4?logo=Windows11&logoColor=fff"/>
+
 <img src="https://img.shields.io/badge/-AOSP-023020?logo=Android&logoColor=fffhttps://img.shields.io/badge/-AOSP-3DDC84?logo=Android&logoColor=fff"/>
 <img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=fff"/>
 <img src="https://img.shields.io/badge/-Bash-4E8825?logo=GNUBash&logoColor=fff"/>
-<img src="https://img.shields.io/badge/-CliGuy-241F31?logo=GnomeTerminal&logoColor=fff"/>
-<img src="https://img.shields.io/badge/-WSL2-4D4D4D?logo=WindowsTerminal&logoColor=fff"/>
 <img src="https://img.shields.io/badge/-Kernel-A8B9CC?logo=C&logoColor=fff"/>
 <img src="https://img.shields.io/badge/-CPP-black?logo=c%2B%2B&style=social"/>
 <img src="https://img.shields.io/badge/-Py.-3776AB?logo=Python&logoColor=fff"/>
@@ -47,6 +45,12 @@
 
 <p align="center">
 
+<!--<img src="https://img.shields.io/badge/-Win11-0078D4?logo=Windows11&logoColor=fff"/>
+<img src="https://img.shields.io/badge/-CliGuy-241F31?logo=GnomeTerminal&logoColor=fff"/>
+<img src="https://img.shields.io/badge/-WSL2-4D4D4D?logo=WindowsTerminal&logoColor=fff"/>
+
+
+-->
 <!--
 For Statistics:
 https://github-readme-stats.vercel.app/api?username=suyashpatil400&count_private=true&show_icons=true&theme=radical
@@ -56,7 +60,7 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=SUYASHPATIL400&sh
  
 For Adding Icons to profile:
 https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff
- 
+
 For icons:
 
     https://simpleicons.org/
