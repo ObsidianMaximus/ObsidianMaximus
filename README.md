@@ -25,7 +25,6 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/-Artix-10A0CC?logo=ArtixLinux&logoColor=fff"/>
 <img src="https://img.shields.io/badge/-Mint-87CF3E?logo=LinuxMint&logoColor=fff"/>
 <img src="https://img.shields.io/badge/-AOSP-023020?logo=Android&logoColor=fffhttps://img.shields.io/badge/-AOSP-3DDC84?logo=Android&logoColor=fff"/>
 <img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=fff"/>
