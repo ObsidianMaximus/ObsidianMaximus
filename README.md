@@ -33,9 +33,7 @@
 <img src="https://img.shields.io/badge/-CPP-black?logo=c%2B%2B&style=social"/>
 <img src="https://img.shields.io/badge/-Py.-3776AB?logo=Python&logoColor=fff"/>
 <img src="https://img.shields.io/badge/-Bots-5865F2?logo=Discord&logoColor=fff"/>
-
 <img src="https://img.shields.io/badge/-Bots-26A5E4?logo=Telegram&logoColor=fff"/>
-
 
 
 
@@ -44,7 +42,20 @@
 
 <p align="center">
 
+<img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff"/>
+<img src="https://img.shields.io/badge/-K8S-326CE5?logo=kubernetes&logoColor=fff"/>
+<img src="https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=fff"/>
+<img src="https://img.shields.io/badge/-Terraform-844FBA?logo=terraform&logoColor=fff"/>
+<img src="https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=fff"/>
+<img src="https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=fff"/>
 
+
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png" alt="Azure" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/google-cloud/google-cloud.png" alt="GCP" width="30" height="30"/>
+</p>
 
 <!--
 For Statistics:
