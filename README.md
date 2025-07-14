@@ -1,4 +1,17 @@
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Abyssinica+SIL&size=21&pause=1000&color=F70000&background=72684E00&center=true&vCenter=true&width=435&lines=Hello+there!;Obsidian+Maximus+welcomes+you!)](https://git.io/typing-svg)
+<!--### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Abyssinica+SIL&size=21&pause=1000&color=F70000&background=72684E00&center=true&vCenter=true&width=435&lines=Hello+there!;Obsidian+Maximus+welcomes+you!)](https://git.io/typing-svg)
+-->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Abyssinica+SIL&size=21&pause=1000&color=F70000&background=72684E00&center=true&vCenter=true&width=435&lines=Hello+there!;Obsidian+Maximus+welcomes+you!" alt="Typing SVG">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://krishnayadav.xyz" target="_blank">
+    <img src="https://img.shields.io/badge/-krishnayadav.xyz-333333?style=for-the-badge&logo=Firefox&logoColor=white" alt="Website Badge"/>
+  </a>
+</p>
+
 
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ObsidianMaximus&theme=synthwave)
 
@@ -6,11 +19,19 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ObsidianMaximus&theme=buefy-dark)](https://git.io/streak-stats) -->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ObsidianMaximus&theme=2077) 
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ObsidianMaximus&theme=2077" alt="Profile Details"/>
+</p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ObsidianMaximus&theme=2077) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ObsidianMaximus&theme=2077)
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ObsidianMaximus&theme=2077" alt="Repos Per Language"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ObsidianMaximus&theme=2077" alt="Most Commit Language"/>
+</p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ObsidianMaximus&theme=2077) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ObsidianMaximus&theme=2077&utcOffset=8)
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ObsidianMaximus&theme=2077" alt="Stats"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ObsidianMaximus&theme=2077&utcOffset=8" alt="Productive Time"/>
+</p>
 
 <a href="https://t.me/liegemaximo">
   <img align="left" alt="Obsidian's Telegram" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg" />
@@ -56,6 +77,7 @@
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png" alt="Azure" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/google-cloud/google-cloud.png" alt="GCP" width="30" height="30"/>
 </p>
+
 
 <!--
 For Statistics:
