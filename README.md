@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://krishnayadav.xyz" target="_blank">
-    <img src="https://img.shields.io/badge/-krishnayadav.xyz-333333?style=for-the-badge&logo=Firefox&logoColor=white" alt="Website Badge"/>
+  <a href="https://yaduv.com" target="_blank">
+    <img src="https://img.shields.io/badge/-yaduv.com-333333?style=for-the-badge&logo=Firefox&logoColor=white" alt="Website Badge"/>
   </a>
 </p>
 
